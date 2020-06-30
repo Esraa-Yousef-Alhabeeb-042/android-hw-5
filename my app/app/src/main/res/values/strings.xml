@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My app</string>
+    <string name="mail">mail</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="next">next</string>
+    <string name="your_job">your_job</string>
+    <string name="your_cv">your_cv</string>
+    <string name="phone_number">phone_number</string>
+    <string name="todo3" />
+    <string name="todo4" />
+    <string name="todo5" />
+</resources>
